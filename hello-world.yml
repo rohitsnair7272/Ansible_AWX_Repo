@@ -8,5 +8,5 @@
     
     - name: Creates directory
       file:
-        path: ./basic-http-server
+        path: ./test_directory
         state: directory
